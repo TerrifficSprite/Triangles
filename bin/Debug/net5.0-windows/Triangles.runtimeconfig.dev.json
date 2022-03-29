@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\TerrifficSprite\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\TerrifficSprite\\.nuget\\packages"
+    ]
+  }
+}
